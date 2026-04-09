@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Whether to do a nightly
-PUSH_NIGHTLY="0"
+PUSH_NIGHTLY="1"
 
 # Store individual repo updates so we can add commit info
 # TODO: Actually display commit info, for now since this
